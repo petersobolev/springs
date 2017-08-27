@@ -4,7 +4,7 @@
 256 bytes intro for Vectrex computer<br>
 Released at Chaos Constructions'2017
 <p>
-![Alt text](https://github.com/petersobolev/springs/blob/master/screenshot_300.jpg "Screenshot")
+![Alt text](https://raw.githubusercontent.com/petersobolev/springs/master/screenshot_300.jpg "Screenshot")
 
 <p>I strongly recommend to run it only on real hardware (Vectrex). It runs under emulator (Vide) however. 
 
